@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Shahul Hameed"
+	"author": "Shahul Hameed",
+	"description": "Learning Node.JS with Freecodecamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
